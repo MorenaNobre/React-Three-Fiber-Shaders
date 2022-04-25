@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MorenaNobre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morenanobre/)](https://www.linkedin.com/in/morenanobre/)
 [![Gmail Badge](https://img.shields.io/badge/-morenagnobre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:morenagnobre@gmail.com)](mailto:morenagnobre@gmail.com)
 
-
 <blockquote align="center">“A chave para transformação é a continuidade. Continue a codar!!!”</blockquote>
 
 <br>
@@ -35,17 +34,15 @@
 
 <p>Tenho muito interesse em ThreeJS com React e assim sendo procurei um tutorial para treinar e entender um pouco mais essa tecnologia.</p>
 
-
-* ThreeJS;
-* ThreeJS Fiber;
-* ThreeJS Drei;
-* GLSL-Noise;
-* GLSLFY;
+- ThreeJS;
+- ThreeJS Fiber;
+- ThreeJS Drei;
+- GLSL-Noise;
+- GLSLFY;
 
 Tutorial <a href="https://www.youtube.com/watch?v=kxXaIHi1j4w&t=1s" target="_blank">neste </a> vídeo.
 
 <br>
-
 
 ## Tecnologias Utilizadas
 
