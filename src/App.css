@@ -8,3 +8,22 @@ html, body, #root {
   margin: 0;
   padding: 0;
 }
+
+body {
+  background: #08080f;
+}
+
+h1 {
+  color: #fff;
+  margin: 0;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  font-size: 4rem;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
